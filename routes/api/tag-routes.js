@@ -31,7 +31,12 @@ Tag.findOne( {where:{
 
 router.post('/', (req, res) => {
   // create a new tag
-  Tag.create(req.)
+  Tag.create(req.body)
+  .then((newTag)=>{
+    res.status(200).json(newTag)
+  }).catch((err)=>{
+    res.status(500).json(err)
+  })
 });
 
 router.put('/:id', (req, res) => {
