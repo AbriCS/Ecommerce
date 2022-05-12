@@ -56,7 +56,6 @@ router.delete('/:id', (req, res) => {
   })
   .then((deleteCategory)=>{
     res.status(200).json(deleteCategory)
-    
   }).catch ((err)=>{
     res.status(500).json(err)
   })
