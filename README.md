@@ -38,8 +38,11 @@ The following are the minimum requirements;
 - Switch to Postman/Insomnia and CRUD (create a new product, read the details of the merchandise, update the information about the products or delete the products). 
 
 
-### Walkthrough Video - POST
-![Deployed Application](./utils/images/Demo-of-Readmegenerator.mp4)
+### Walkthrough Video 
+```
+ POST PUT DELETE for Products and Tags
+ ```
+![Deployed Application](./config/src/images/Ecommerce-walkthrough.gif)
 
 ### Screenshot of deployed app
 
@@ -64,17 +67,18 @@ Project collaborators are always welcome
 ## Version History
 
 - <b>0.2  The Latest<b>
-    - Click [here](https://abrics.github.io/) for the final release. 2022/03/04.
+    - Click [here](https://abrics.github.io/) for the final release. 2022/05/17.
 
 - 0.1
-  - Initial Release 2022/03/02
+  - Initial Release 2022/05/02
 
 ## License
 
-This project is licensed under the [Creative Commons](https://creativecommons.org/licenses/by/2.0/uk/) Licence and is free to use and develop. Citation of the Author is recommended.
+This project is licensed under the [Creative Commons](https://creativecommons.org/licenses/by/2.0/uk/) Licence and is free to use and develop. Citation of the Author is recommended but not required.
 
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
 
-- [awesome-readme](https://github.com/matiassingers/awesome-readme)Ecommerce-Backend
+- [awesome-readme](https://github.com/matiassingers/awesome-readme)
+- [Trilogy Bootcamp Resources](https://www.trilogyed.com)
