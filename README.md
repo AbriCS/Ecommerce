@@ -38,12 +38,12 @@ The following are the minimum requirements;
 - Switch to Postman/Insomnia and CRUD (create a new product, read the details of the merchandise, update the information about the products or delete the products). 
 
 
-### Walkthrough Video
+### Walkthrough Video - POST
 ![Deployed Application](./utils/images/Demo-of-Readmegenerator.mp4)
 
 ### Screenshot of deployed app
 
-![Deployed Application](./utils/images/Deployed-application.png)
+![Deployed Application](./config/src/images/Deployed-app.png)
 
 
 ## Further Information and Help
